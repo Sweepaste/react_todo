@@ -1,0 +1,13 @@
+.finisheditem {
+    list-style: none;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+  }
+
+  .finisheditem:hover {
+    box-shadow: 0 0 3px black;
+  }
+  
